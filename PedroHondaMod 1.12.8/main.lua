@@ -1,13 +1,13 @@
 local Mod = RegisterMod("PedroHondaMod", 1)
  
 local PedroHonda = { -- Cambia "PedroHonda" por el nombre de tu personaje
-    DAMAGE = 4, -- Todo es relativo a las estadisticas de Isaac (Se suman/restan a las default)
-    SPEED = 1.5,
-    SHOTSPEED = 1.5,
+    DAMAGE = 0, -- Todo es relativo a las estadisticas de Isaac (Se suman/restan a las default)
+    SPEED = 0,
+    SHOTSPEED = 0.5,
     TEARHEIGHT = 2.5,
     TEARFALLINGSPEED = 0,
     LUCK = 3,
-    FLYING = true,                                 
+    FLYING = false,                                 
     TEARFLAG = 1<<4, -- 0 default
     TEARCOLOR = Color(0.0, 1.0, 0.0, 1.0, 0, 0, 0)  -- Color(1.0, 1.0, 1.0, 1.0, 0, 0, 0) default
 }
