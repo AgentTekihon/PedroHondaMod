@@ -1,0 +1,9 @@
+<players root="gfx/characters/costumes/"
+portraitroot="gfx/ui/boss/"
+nameimageroot="gfx/ui/boss/"
+bigportraitroot="gfx/ui/stage/">
+<player name="PedroHonda" skin="character_PedroHonda.png" black="0" armor="2" hp="6" keys="0" bombs="0" coins="0" canShoot="true" items="422"
+nameimage="playername_PedroHonda.png"
+portrait="playerportrait_PedroHonda.png"
+bigportrait="playerportraitbig_PedroHonda.png" skinColor="-1" />
+</players>
