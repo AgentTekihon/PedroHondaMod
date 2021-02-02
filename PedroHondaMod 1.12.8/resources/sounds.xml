@@ -152,9 +152,9 @@
 		<sample weight="1" path="Feedback/key drop 2.wav" />
 	</sound>
 	<sound id="60">
-		<sample weight="1" path="baby hurt 1.wav" />
-		<sample weight="1" path="baby hurt 2.wav" />
-		<sample weight="1" path="baby hurt 3.wav" />
+		<sample weight="1" path="Player/baby hurt 1.wav" />
+		<sample weight="1" path="Player/baby hurt 2.wav" />
+		<sample weight="1" path="Player/baby hurt 3.wav" />
 	</sound>
 	<sound id="64">
 		<sample weight="1" path="maggot burst out.wav" />
